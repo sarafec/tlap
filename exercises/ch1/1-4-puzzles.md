@@ -1,0 +1,2 @@
+#### Chapter 1 - Exercise 1-4
+Problem: Search for old-fashioned puzzles and try to solve them (look for Sam Loyd). Find the solution. How would you make an easier version of the puzzle? What would you have to change? The constraints themselves or just the wording?

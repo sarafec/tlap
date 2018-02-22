@@ -1,0 +1,2 @@
+#### Chapter 1 - Exercise 1-5
+Problem: Try to write some explicit strategies for traditional "pencil and paper" games, like crosswords. Where should you start? What should you do when stuck? What is your strategy? 
